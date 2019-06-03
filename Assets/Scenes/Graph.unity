@@ -304,6 +304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1815791723}
   - component: {fileID: 1815791722}
+  - component: {fileID: 1815791724}
   m_Layer: 0
   m_Name: Graph
   m_TagString: Untagged
@@ -340,3 +341,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1815791724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1815791721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771aa46eab65f484dadc7d549e971d77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

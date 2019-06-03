@@ -320,13 +320,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1815791721}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b4d3ae41f78843448afb9bfb42539c55, type: 3}
+  m_Script: {fileID: 11500000, guid: 771aa46eab65f484dadc7d549e971d77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   pointPrefab: {fileID: 7091863349966273108, guid: 76c5f4bc279f07140ba4a3cd5d93193c,
     type: 3}
-  resolution: 100
-  function: 4
+  resolution: 48
+  function: 7
 --- !u!4 &1815791723
 Transform:
   m_ObjectHideFlags: 0
